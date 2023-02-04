@@ -1,3 +1,7 @@
+# My Website
+This website is meant to act as a digital recipe book.
+
+# Assignment instructions
 # Responsive images and SVG images
 
 Learn how to do the following:
